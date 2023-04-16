@@ -1,0 +1,11 @@
+a0.0.1
+- Added world assets, incl. trees, rocks, bushes etc, as well as snowy and dead versions
+- Added player character assets, incl. anims, mats, skel, etc
+- Added 3 enemies, incl. anims, mats, skel, etc
+-- Shroom king
+-- Ninja
+-- Blue Demon
+- Marked mannequins as depricated, will be deleted once player character is fully integrated
+a0.0.2
+- Merged Dev_Richard into main
+- Added player character driver code
