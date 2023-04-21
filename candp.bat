@@ -5,5 +5,5 @@ echo Starting script
 echo ---------------
 set /P msg="Enter commit message: "
 git add *
-git commit -a -m "$msg"
+git commit -a -m "%msg%"
 git push
