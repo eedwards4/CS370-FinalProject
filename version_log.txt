@@ -12,3 +12,11 @@ a0.0.2
 a0.0.3
 - Merged Dev_Seth
 - Added jump pads and moving platforms
+a0.0.4
+- Added Desert level
+- Added Forest level (WIP)
+- File refactor
+- Merged Dev_Seth again
+- Added pause menu
+- Added SFX
+- bronchitis gang bronchitis gang
