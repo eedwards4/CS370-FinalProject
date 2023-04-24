@@ -24,3 +24,6 @@ a0.0.5
 - Fixed a bug with item pickups where they attempted to self-reference after deletion
 - Removed spacebar from dash input and added it as a jump input
 - Reorganized filepaths for more verbosity
+a0.0.6
+- More filepath stuff
+- Removed depricated objects
