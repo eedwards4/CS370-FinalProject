@@ -8,7 +8,6 @@ a0.0.1
 - Marked mannequins as depricated, will be deleted once player character is fully integrated
 a0.0.2
 - Merged Dev_Richard into main
-<<<<<<< HEAD
 - Added player character driver code
 a0.0.3
 - Merged Dev_Seth
@@ -21,6 +20,5 @@ a0.0.4
 - Added pause menu
 - Added SFX
 - bronchitis gang bronchitis gang
-=======
-- Added player character driver code
->>>>>>> Dev_Richard
+
+
