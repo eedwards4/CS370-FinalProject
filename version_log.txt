@@ -9,3 +9,21 @@ a0.0.1
 a0.0.2
 - Merged Dev_Richard into main
 - Added player character driver code
+a0.0.3
+- Merged Dev_Seth
+- Added jump pads and moving platforms
+a0.0.4
+- Added Desert level
+- Added Forest level (WIP)
+- File refactor
+- Merged Dev_Seth again
+- Added pause menu
+- Added SFX
+- bronchitis gang bronchitis gang
+a0.0.5
+- Fixed a bug with item pickups where they attempted to self-reference after deletion
+- Removed spacebar from dash input and added it as a jump input
+- Reorganized filepaths for more verbosity
+a0.0.6
+- More filepath stuff
+- Removed depricated objects
