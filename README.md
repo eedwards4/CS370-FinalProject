@@ -14,7 +14,7 @@ Traverse is a side-scroller. The only way to attack enemies is with your feet, m
 - Ethan Edwards: Level design, Asset Design, Progamming
 
 <b>How to Download and Play<b>
-- The zip file containing the entire project
+- Download the zip file containing the entire project
 - Uncompress the zip file to another folder
 - Double click the "Traverse.uproject"
 - If it asks you to rebuild the missing modules for any reason, click "Yes"
