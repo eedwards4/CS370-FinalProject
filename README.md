@@ -1,2 +1,16 @@
-# CS370-FinalProject
-Final Project for CS 370
+# CS370-FinalProject [TRAVERSE]
+Final Project for CS 370 at Sonoma State University
+
+<b><i>IT IS THE DISTANT POST APOCOLYPTIC FUTURE OF 2011. HUMANITY IS DEAD. AND YET SOMEHOW ONE MAN SURVIVES. HIS GOAL? FIGURE OUT WHAT THE HECK IS GOING ON. HE MUST TRAVERSE THE WARPED LANDSCAPE, SURVIVE ENEMIES, AND DESTROY THE ULTIMATE ENEMY: THE AGENT.</i></b>
+
+<b>THE GAME</b>
+
+Traverse is a side-scroller. The only way to attack enemies is with your feet, making movement critical.
+
+!!!!WE NEED MORE HERE!!!!
+
+<b>THE TEAM</b>
+- Seth Nuzum: Progamming, Soundtrack, FX
+- Adam Erskine: Final Boss, Soundtrack
+- Richard Yocke: Enemy Design/Programming, Character Design/Programming
+- Ethan Edwards: Level design, Asset Design, Progamming
