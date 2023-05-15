@@ -12,3 +12,11 @@ Traverse is a side-scroller. The only way to attack enemies is with your feet, m
 - Adam Erskine: Final Boss, Soundtrack
 - Richard Yocke: Enemy Design/Programming, Character Design/Programming
 - Ethan Edwards: Level design, Asset Design, Progamming
+
+<b>How to Download and Play<b>
+- The zip file containing the entire project
+- Uncompress the zip file to another folder
+- Double click the "Traverse.uproject"
+- If it asks you to rebuild the missing modules for any reason, click "Yes"
+- Once the editor has opened the game to the "Desert Level" use the green play button at the top of the editor to start the game
+- To stop the game either press "P" for pause and then exit, or press the escape button for the editor's buitin stop function 
