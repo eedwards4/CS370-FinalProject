@@ -20,6 +20,7 @@ Traverse is a side-scroller. The only way to attack enemies is with your feet, m
 - If it asks you to rebuild the missing modules for any reason, click "Yes"
 - Once the editor has opened the game to the "Desert Level" use the green play button at the top of the editor to start the game
 - To stop the game either press "P" for pause and then exit, or press the escape button for the editor's buitin stop function 
+  
 <b>General Controls<b>
 - W and Spacebar are jump
 - A and D are left and right respectively 
