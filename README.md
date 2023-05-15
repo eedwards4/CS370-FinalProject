@@ -7,8 +7,6 @@ Final Project for CS 370 at Sonoma State University
 
 Traverse is a side-scroller. The only way to attack enemies is with your feet, making movement critical.
 
-!!!!WE NEED MORE HERE!!!!
-
 <b>THE TEAM</b>
 - Seth Nuzum: Progamming, Soundtrack, FX
 - Adam Erskine: Final Boss, Soundtrack
