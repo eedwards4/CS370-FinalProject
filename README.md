@@ -22,7 +22,7 @@ Traverse is a side-scroller. The only way to attack enemies is with your feet, m
 - To stop the game either press "P" for pause and then exit, or press the escape button for the editor's buitin stop function 
 <b>General Controls<b>
 - W and Spacebar are jump
-- A and D are left and rigth respectively 
+- A and D are left and right respectively 
 - Shift is Dash (once unlocked)
 - P is pause 
 - F is debug "fly mode" (avoid using for gameplay)
