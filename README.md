@@ -27,4 +27,4 @@ Traverse is a side-scroller. The only way to attack enemies is with your feet, m
 - Shift is Dash (once unlocked)
 - P is pause 
 - F is debug "fly mode" (avoid using for gameplay)
-- Dash, Double Jump, and Wall Hang are unlockable with in the levels but will be unlocked come the next level if the player did not find/interact with them, as they are require abilities for the next levels.
+- Dash, Double Jump, and Wall Hang are unlockable with in the levels but will be unlocked come the next level if the player did not find/interact with them, as they are required abilities for the next levels.
